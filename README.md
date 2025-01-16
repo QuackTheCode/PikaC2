@@ -3,7 +3,7 @@
   <h1>PikaC2</h1>
   <br/>
 
-  <p><i>PikaC2 is a modern command and control framework written in Go & Python3, created by <a href="https://twitter.com/SecComplex">Complexity</a>.</i></p>
+  <p><i>PikaC2 is a modern command and control framework written in Go & Python3, created by <a href="https://twitter.com/QuackedTheCode">QuackTheCode</a>.</i></p>
   <br />
 
   <!-- <img src="assets/Screenshots/FullSessionGraph.jpeg" width="90%" /><br /> -->
@@ -19,6 +19,6 @@
 
 ### Quick Start
 
-> Please see the [Wiki](https://github.com/ComplexSec/PikaC2/wiki) for complete documentation.
+> Please see the [Wiki](https://github.com/QuackTheCode/PikaC2/wiki) for complete documentation.
 
-See the [Installation](https://github.com/ComplexSec/PikaC2/wiki#installation) guide in the Wiki for instructions. If you run into issues, check the [Known Issues](https://github.com/ComplexSec/PikaC2/wiki#known-issues) page as well as the open/closed [Issues](https://github.com/ComplexSec/PikaC2/issues) list.
+See the [Installation](https://github.com/QuackTheCode/PikaC2/wiki#installation) guide in the Wiki for instructions. If you run into issues, check the [Known Issues](https://github.com/QuackTheCode/PikaC2/wiki#known-issues) page as well as the open/closed [Issues](https://github.com/QuackTheCode/PikaC2/issues) list.
