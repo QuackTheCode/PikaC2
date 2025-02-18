@@ -12,13 +12,4 @@
 </div>
 
 > [!IMPORTANT]  
-> PikaC2 is a labour of love created by an inexperienced developer to better understand how C2's function and operate. This is not meant to be a replacement of your current C2. It will be coming soon!
-
-> [!CAUTION]
-> PikaC2 is still in early development. Bugs and unexpected errors/problems may arise during use. These will be remedied in future patches and updates as the framework matures.
-
-### Quick Start
-
-> Please see the [Wiki](https://github.com/QuackTheCode/PikaC2/wiki) for complete documentation.
-
-See the [Installation](https://github.com/QuackTheCode/PikaC2/wiki#installation) guide in the Wiki for instructions. If you run into issues, check the [Known Issues](https://github.com/QuackTheCode/PikaC2/wiki#known-issues) page as well as the open/closed [Issues](https://github.com/QuackTheCode/PikaC2/issues) list.
+> PikaC2 is currently a labour of love and work in progress and will be released in due time.
